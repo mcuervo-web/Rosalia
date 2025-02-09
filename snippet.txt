@@ -1,4 +1,4 @@
-<model-viewer src="Rosalia Minecraft.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" auto-rotate camera-orbit="0deg 75deg 3.888m" field-of-view="30deg">
+<model-viewer src="Rosalia Minecraft4.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" autoplay auto-rotate camera-orbit="20.97deg 75.78deg 3.908m" field-of-view="30deg">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
